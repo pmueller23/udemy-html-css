@@ -1,0 +1,35 @@
+ html {
+     background-color: blue;
+ }
+
+ div {
+     margin: 0 auto;
+     padding: 25px;
+     width: 600px;
+     background-color: lightgreen;
+     border: solid black 5px;
+ }
+
+ img {
+     border: groove gold 10px;
+     border-radius: 100%;
+     margin: 0 auto;
+     display: block;
+ }
+
+ h1, h2{
+     margin-top: 30px;
+     font-size: 25px;
+ }
+
+ h1{
+     color: blue;
+ }
+
+ h2{
+     color: red;
+ }
+
+ p{
+     margin-top: 10px;
+ }

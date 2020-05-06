@@ -1,0 +1,26 @@
+.one {
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    border: 20px groove;
+    background-image: url("images/puppy.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.two{
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    border: 10px dashed red;
+    margin: 20px auto;
+}
+
+.three{
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    border: 10px dashed red;
+    margin: 20px auto;
+    box-sizing: border-box;
+}

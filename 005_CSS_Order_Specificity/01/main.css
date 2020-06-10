@@ -1,0 +1,10 @@
+/*The Class attribute has Specificity score of 0-0-1-0*/
+.red{
+    color: red;
+}
+
+/*The ID attribute will apply to the p element as it has higher
+Specificity score of 0-1-0-0*/
+#emph{
+    color: blue;
+}

@@ -1,0 +1,15 @@
+ul{
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-end;
+  background-color: deepskyblue;
+}
+
+li{
+  border: none;
+  padding-right: 1em;
+}
+
+a{
+  text-decoration: none;
+}

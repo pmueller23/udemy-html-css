@@ -1,0 +1,22 @@
+section{
+  width: 100%;
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+article{
+  width: 60%;
+  order: 2;
+}
+
+aside{
+  width: 20%;
+}
+
+.a1{
+  order: 1;
+}
+
+.a2{
+  order: 3;
+}

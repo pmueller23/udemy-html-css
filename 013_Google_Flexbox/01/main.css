@@ -1,0 +1,28 @@
+html, body, ul, li{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li{
+  background-color: deepskyblue;
+  border-bottom: 1px solid skyblue;
+  height: 50px;
+  list-style: none;
+  text-align: center;
+  padding-top: 1em;
+}
+
+li:last-child{
+  border-bottom: none;
+}
+
+a{
+  font-family: sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  color: blue;
+}

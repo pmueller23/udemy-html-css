@@ -1,0 +1,41 @@
+/* reset */
+html, body{
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+/* main */
+div{
+  width: 100%;
+}
+
+header{
+  background-color: darkorange;
+  text-align: center;
+  padding: 10px;
+}
+
+article{
+  padding: 25px 10px;
+  background-color: deepskyblue;
+}
+
+aside{
+  text-align: center;
+  padding: 10px;
+}
+
+aside.a1{
+  background-color: gold;
+}
+
+aside.a2{
+  background-color: hotpink;
+}
+
+footer{
+  background-color: lightgreen;
+  padding: 10px;
+  text-align: center;
+}

@@ -1,0 +1,14 @@
+container{
+  width: 75%;
+  flex-wrap: nowrap;
+}
+
+ul{
+  width: 20%;
+  flex-flow: column nowrap;
+  justify-content: space-around;
+}
+
+div{
+  width:80%;
+}

@@ -1,0 +1,10 @@
+h1, h2{
+  color: blue;
+}
+
+@media print{
+  h2 {
+    border-width: 5px;
+    border-style: dashed;
+  }
+}

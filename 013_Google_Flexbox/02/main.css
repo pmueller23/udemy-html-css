@@ -1,0 +1,21 @@
+body, html{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  border: solid 5px red;
+  height: 100vh;
+  background-image: url(cutie.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p{
+  font-size: 8rem;
+}

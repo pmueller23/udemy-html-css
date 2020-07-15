@@ -1,0 +1,10 @@
+h1, h2{
+  color: hotpink;
+}
+
+@media print{
+  h2 {
+    border-width: 5px;
+    border-style: dashed;
+  }
+}

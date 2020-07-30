@@ -1,0 +1,58 @@
+html{
+  font-family: 'Cantarell', sans-serif;
+  font-size: 400;
+  color: white;
+}
+
+#idx-atf{
+  /* layout */
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+  /* background */
+  background-color: darkgray;
+  background-image: url("images/background-photo-mobile-devices.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-origin: border-box;
+  background-attachment: fixed;
+}
+
+.idx-atf-content{
+  height: 90vh;
+  width: 95%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+h1{
+  font-size: 3.75rem;
+  font-weight: 400;
+}
+
+h2{
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+h3{
+  font-size: 1.75rem;
+  font-weight: 400;
+  margin-top: 15px;
+  line-height: 2rem;
+}
+
+button{
+  font-size: 1.75rem;
+  color: powderblue;
+  border: 1px solid powderblue;
+  border-radius: 3px;
+  padding: .4rem 1.2rem;
+  width: auto;
+}

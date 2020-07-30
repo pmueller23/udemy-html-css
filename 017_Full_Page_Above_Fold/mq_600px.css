@@ -1,0 +1,28 @@
+#idx-atf{
+  background-image: url("images/background-photo.jpg");
+}
+
+.idx-atf-content{
+  height: 16vh;
+  width: auto;
+}
+
+h1{
+  font-size: 1.4rem;
+}
+
+h2{
+  font-size: .75rem;
+}
+
+h3{
+  font-size: .75rem;
+  margin-top: 0;
+  line-height: normal;
+}
+
+button{
+  font-size: .75rem;
+  font-weight: 700;
+  padding: .4rem .7rem;
+}

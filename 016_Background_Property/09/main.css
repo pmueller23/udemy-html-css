@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+div{
+  box-sizing: border-box;
+  padding: 20px;
+  height: 600px;
+  width: 600px;
+  border: 20px solid red;
+  background-image: url("images/cutie.jpeg");
+  background-color: yellow;
+  background-origin: content-box;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p{
+  margin: 0;
+  font-size: 1rem;
+}

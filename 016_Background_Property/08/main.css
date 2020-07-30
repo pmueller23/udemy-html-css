@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+div{
+  height: 500px;
+  width: 900px;
+  border: 10px ridge red;
+  background-image: url("images/cutie.jpeg");
+  background-position: 600px 10px;
+  background-repeat: no-repeat;
+}
+
+p{
+  font-size: 2rem;
+}

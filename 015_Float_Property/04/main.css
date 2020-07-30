@@ -1,0 +1,17 @@
+div{
+  margin-top: 15px;
+  padding: 15px;
+  width: 85%;
+  border: 2px solid black;
+  float: left;
+}
+
+img{
+  float:left;
+  border: 2px solid red;
+}
+
+p.clear{
+  clear:both;
+  border: 2px solid orange;
+}

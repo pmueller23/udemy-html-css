@@ -1,0 +1,21 @@
+div, nav, article{
+  box-sizing: border-box;
+}
+
+div{
+  margin:0 auto;
+  margin-top: 15px;
+  width: 80%;
+}
+
+nav{
+  float: left;
+  width: 25%;
+  border: 2px solid red;
+}
+
+article{
+  float: right;
+  width: 75%;
+  border: 2px solid black;
+}

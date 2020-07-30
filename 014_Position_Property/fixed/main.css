@@ -1,0 +1,13 @@
+html, body{
+  padding: 0;
+  margin: 0;
+}
+
+footer{
+  position: fixed;
+  bottom: 0px;
+  height: 50px;
+  width: 100%;
+  background-color: darkorange;
+  border: 2px solid red;
+}

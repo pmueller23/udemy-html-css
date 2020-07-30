@@ -1,0 +1,29 @@
+body{
+  margin: 0 auto;
+  padding: 0;
+}
+
+#container{
+  position: relative;
+  margin: 0 auto;
+  width: 700px;
+}
+
+#left{
+  position:absolute;
+  left: 0;
+  height: 400px;
+  width: 200px;
+  border: 2px solid red;
+}
+
+#right{
+  height: 400px;
+  width: 500px;
+  margin-left: 200px;
+  border: 2px solid black;
+}
+
+p{
+  margin: 0;
+}

@@ -1,0 +1,26 @@
+html, body{
+  padding:0;
+  margin:0;
+}
+
+#container{
+  width: 80%;
+  padding: 0;
+  margin: 0 auto;
+  border: 2px solid black;
+  box-sizing: border-box;
+}
+
+#one, #two, #three{
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  background-color: darkorange;
+  border: 2px solid red;
+}
+
+#two{
+  position: relative;
+  top: 10px;
+  left: 20px;
+}
